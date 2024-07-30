@@ -55,7 +55,7 @@ const Table = () => {
             className="bg-[#FF5A00] text-white font-bold py-2 px-9 rounded-2xl hover:bg-[#FF7A20]"
             onClick={handleGenerate}
           >
-            Generate
+            Next
           </button>
         </div>
       </div>
